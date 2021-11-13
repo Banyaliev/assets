@@ -1,0 +1,11 @@
+{
+    "name": "Travelogica - Tlogic",
+    "website": "https://travelogic.org",
+    "description": "The Tlogic Protocol is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, & Burn.",
+    "explorer": "https://bscscan.com/token/0x055dfed05eaed1879576d46ec8424b33ff206d3c",
+    "type": "BEP20",
+    "symbol": "Travelogica",
+    "decimals": 10,
+    "status": "active",
+    "id": "0x055dfed05eaed1879576d46ec8424b33ff206d3c"
+}
